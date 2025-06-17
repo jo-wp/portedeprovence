@@ -27,6 +27,7 @@
 # ignore everything in the root except the "wp-content" directory.
 /*
 !wp-content/
+!test.txt
 
 # ignore everything in the "wp-content" directory, except:
 # mu-plugins, plugins, and themes directories
